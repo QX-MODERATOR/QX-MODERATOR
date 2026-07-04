@@ -11,9 +11,9 @@
 <br/><br/>
 
 <!-- Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/QX-MODERATOR?label=Followers&style=for-the-badge&color=e6edf3&labelColor=161b22&logo=github&logoColor=white)](https://github.com/QX-MODERATOR?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=QX-MODERATOR&style=for-the-badge&color=e6edf3&labelColor=161b22&label=Profile+Views)](https://github.com/QX-MODERATOR)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Freelance-e6edf3?style=for-the-badge&labelColor=161b22)](mailto:mohammadkayyali15@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/QX-MODERATOR?label=Followers&style=for-the-badge&color=1f6feb&labelColor=161b22&logo=github&logoColor=white)](https://github.com/QX-MODERATOR?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=QX-MODERATOR&style=for-the-badge&color=4f46e5&labelColor=161b22&label=Profile+Views)](https://github.com/QX-MODERATOR)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Freelance-238636?style=for-the-badge&labelColor=161b22)](mailto:mohammadkayyali15@gmail.com)
 
 </div>
 
@@ -96,9 +96,9 @@ const mohammad = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Kayyali-e6edf3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/mohammadkayyali15)
-[![Telegram](https://img.shields.io/badge/Telegram-@xz__1b-e6edf3?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/xz_1b)
-[![Email](https://img.shields.io/badge/Email-mohammadkayyali15%40gmail.com-e6edf3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:mohammadkayyali15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Kayyali-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/mohammadkayyali15)
+[![Telegram](https://img.shields.io/badge/Telegram-@xz__1b-24a1de?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/xz_1b)
+[![Email](https://img.shields.io/badge/Email-mohammadkayyali15%40gmail.com-db4437?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:mohammadkayyali15@gmail.com)
 
 </div>
 
