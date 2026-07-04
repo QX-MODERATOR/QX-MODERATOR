@@ -48,7 +48,7 @@ const mohammad = {
 | ⬇️ | **Aria2 Manager** | Download manager with queue & resume | `Tauri` `Rust` `HTML` | [→ Repo](https://github.com/QX-MODERATOR/Aria2-Download-Manager) |
 | 🙏 | **Pray Reminder** | Islamic prayer times on Android lock screen | `Kotlin` `Compose` | [→ Repo](https://github.com/QX-MODERATOR/Pray-Reminder) |
 | 🤖 | **Bonus Scraper** | Automated bookmaker promo pipeline | `Python` `Playwright` | [→ Repo](https://github.com/QX-MODERATOR/Bonus-Promo-Task) |
-| 🔍 | **Drive Scraper** | Extract all files from public Google Drive links | `Vite` `React` `Express` | [→ Repo](https://github.com/QX-MODERATOR/drive-scraper-ui) |
+| 🔍 | **Drive Scraper** | Extract all files from public Google Drive links | `Vite` `React` `Express` | [→ Repo](https://github.com/QX-MODERATOR/drive-scraper) |
 | 🔐 | **Hash Function** | Browser dashboard for Hash Function API | `TypeScript` | [→ Repo](https://github.com/QX-MODERATOR/Hash-Function) |
 
 </div>
