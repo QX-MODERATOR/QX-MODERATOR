@@ -11,9 +11,9 @@
 <br/><br/>
 
 <!-- Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/QX-MODERATOR?label=Followers&style=for-the-badge&color=e6edf3&labelColor=161b22&logo=github)](https://github.com/QX-MODERATOR?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/QX-MODERATOR?label=Followers&style=for-the-badge&color=e6edf3&labelColor=161b22&logo=github&logoColor=white)](https://github.com/QX-MODERATOR?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=QX-MODERATOR&style=for-the-badge&color=e6edf3&labelColor=161b22&label=Profile+Views)](https://github.com/QX-MODERATOR)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Freelance-e6edf3?style=for-the-badge&labelColor=161b22&logo=briefcase)](mailto:mohammadkayyali15@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Freelance-e6edf3?style=for-the-badge&labelColor=161b22)](mailto:mohammadkayyali15@gmail.com)
 
 </div>
 
