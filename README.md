@@ -59,8 +59,8 @@ const mohammad = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=QX-MODERATOR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QX-MODERATOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api?username=QX-MODERATOR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=QX-MODERATOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8"/>
 
 </div>
 
