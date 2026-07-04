@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Mohammad%20Kayyali&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=QX%20Team%20Lead%20%26%20Moderator&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Mohammad%20Kayyali&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=QX%20Team%20Lead%20and%20Moderator&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/QX-MODERATOR">
